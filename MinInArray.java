@@ -1,5 +1,3 @@
-package LinearSearch;
-
 public class MinInArray {
     public static void main(String[] args) {
         int[] arr={30,38,49,79,80};
